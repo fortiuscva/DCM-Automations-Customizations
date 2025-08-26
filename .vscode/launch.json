@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Sandbox-BC26Update",
+            "request": "launch",
+            "type": "al",
+            "tenant": "ea597ad0-3b05-40b9-b938-a34f91d65ed4",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox-BC26Update",
+            "startupObjectId": 142,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }              
+    ]
+}

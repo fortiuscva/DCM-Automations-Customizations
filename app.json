@@ -1,0 +1,42 @@
+{
+  "id": "d63e22fb-c371-4232-9870-9b6cbedcb3db",
+  "name": "DCM Customizations",
+  "publisher": "DCM-OC",
+  "version": "25.0.0.82",
+  "runtime": "14.1",
+  "target": "Cloud",
+  "application": "25.0.0.0",
+  "platform": "25.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "dependencies": [
+    {
+      "id": "f8750ab4-1d72-455d-b773-5b487a0ac106",
+      "name": "Lanham E-Ship and E-Receive",
+      "version": "23.1.15.2",
+      "publisher": "Lanham Associates"
+    },
+    {
+      "id": "5fedf952-2450-4bce-b578-f3b7c13cd9a9",
+      "name": "Avalara AvaTax",
+      "version": "23.0.19.1",
+      "publisher": "Avalara"
+    },
+    {
+      "id": "12968b6e-b233-40e8-8ebc-160ee407d489",
+      "name": "Shop Floor Insight",
+      "version": "7.11.8651.1",
+      "publisher": "Insight Works"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 52199
+    }
+  ]
+}
