@@ -2,7 +2,7 @@
   "id": "d63e22fb-c371-4232-9870-9b6cbedcb3db",
   "name": "DCM Customizations",
   "publisher": "DCM-OC",
-  "version": "25.0.0.82",
+  "version": "25.0.0.84",
   "runtime": "14.1",
   "target": "Cloud",
   "application": "25.0.0.0",
