@@ -320,10 +320,10 @@ report 52107 "THK Sales Quote"
             column(VATRegistrationNo_Lbl; GetCustomerVATRegistrationNumberLbl)
             {
             }
-            column(GlobalLocationNumber; GetCustomerGlobalLocationNumber)
+            column(GlobalLocationNumber; '')
             {
             }
-            column(GlobalLocationNumber_Lbl; GetCustomerGlobalLocationNumberLbl)
+            column(GlobalLocationNumber_Lbl; '')
             {
             }
             column(LegalEntityType; Cust.GetLegalEntityType)
