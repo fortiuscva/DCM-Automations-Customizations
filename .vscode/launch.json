@@ -14,6 +14,21 @@
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true
-        }              
+        },
+        {
+            "name": "Sandbox-02242026",
+            "request": "launch",
+            "type": "al",
+            "tenant": "ea597ad0-3b05-40b9-b938-a34f91d65ed4",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox-02242026",
+            "startupObjectId": 142,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
+        }               
     ]
 }
